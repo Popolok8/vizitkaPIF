@@ -1,5 +1,8 @@
-# vizitka-2023
+# Toto je hlavni nadpis nehehe
 
-Šablona projektu pro cvičení práce s Gitem.
+Muj "prvni" repozitar
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+Moje stranka: [webova stranka](popolok8.github.io/vizitkaPIF/).
+
+##nevim voe
+![webova stranka](files/photos/obrazek1.png)
